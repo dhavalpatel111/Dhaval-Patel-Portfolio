@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b89acde1.css",
+    "main.js": "/static/js/main.941290b2.js",
+    "static/media/news.png": "/static/media/news.3ce4e9c12c6e1819a6c2.png",
+    "static/media/avtar1.jpg": "/static/media/avtar1.a12c65a18b3759c0e6e8.jpg",
+    "static/media/mobile.png": "/static/media/mobile.2d64147d5754c793034e.png",
+    "static/media/avtar2.jpg": "/static/media/avtar2.e07a878aaf601b6305a5.jpg",
+    "static/media/image2.jpg": "/static/media/image2.0ec0c7641514869e72f7.jpg",
+    "static/media/cv.pdf": "/static/media/cv.70d3a0cc868e8d7860b8.pdf",
+    "static/media/avtar3.jpg": "/static/media/avtar3.ebce7cf748cb93639932.jpg",
+    "static/media/avtar4.jpg": "/static/media/avtar4.255a2ac108b47a3aac80.jpg",
+    "static/media/image1.jpg": "/static/media/image1.6f587dd1b122ae974c6a.jpg",
+    "static/media/textutil.png": "/static/media/textutil.2606dfac16770f5e639c.png",
+    "index.html": "/index.html",
+    "main.b89acde1.css.map": "/static/css/main.b89acde1.css.map",
+    "main.941290b2.js.map": "/static/js/main.941290b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89acde1.css",
+    "static/js/main.941290b2.js"
+  ]
+}
